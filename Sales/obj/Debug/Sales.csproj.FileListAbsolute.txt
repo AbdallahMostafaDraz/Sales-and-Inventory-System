@@ -1,0 +1,7 @@
+E:\NewSales\Sales\Sales\bin\Debug\Sales.exe.config
+E:\NewSales\Sales\Sales\bin\Debug\Sales.exe
+E:\NewSales\Sales\Sales\bin\Debug\Sales.pdb
+E:\NewSales\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+E:\NewSales\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+E:\NewSales\Sales\Sales\obj\Debug\Sales.exe
+E:\NewSales\Sales\Sales\obj\Debug\Sales.pdb
